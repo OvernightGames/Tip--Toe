@@ -69,7 +69,6 @@ public class SonarFx : MonoBehaviour
     // Reference to the shader.
     [SerializeField] Shader shader;
 
-    // Private shader variables
     int baseColorID;
     int waveColorID;
     int waveParamsID;
@@ -114,10 +113,10 @@ public class SonarFx : MonoBehaviour
         else
         {
             Shader.EnableKeyword("SONAR_SPHERICAL");
-            Shader.SetGlobalVector(waveVectorID, _origin);
+			Shader.SetGlobalVector(waveVectorID, this.transform.position);
         }
 
-		if(Input.GetKey(KeyCode.Space))
+		if(Input.GetKey(KeyCode.W)||Input.GetKey(KeyCode.A)||Input.GetKey(KeyCode.S)||Input.GetKey(KeyCode.D))
 		{
 			_waveAmplitude = 2;
 			timer = 2;

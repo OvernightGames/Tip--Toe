@@ -59,16 +59,16 @@ public class JitterMotion : MonoBehaviour
             noiseVectors[i].Set(Mathf.Cos(theta), Mathf.Sin(theta));
         }
 
-        initialPosition = transform.localPosition;
+        //initialPosition = transform.localPosition;
         initialRotation = transform.localRotation;
     }
 
     void Update()
     {
-        timePosition += Time.deltaTime * positionFrequency;
+        //timePosition += Time.deltaTime * positionFrequency;
         timeRotation += Time.deltaTime * rotationFrequency;
 
-        if (positionAmount != 0.0f)
+        /*if (positionAmount != 0.0f)
         {
             var p = new Vector3(
                 Fbm(noiseVectors[0] * timePosition, positionOctave),
@@ -77,7 +77,7 @@ public class JitterMotion : MonoBehaviour
             );
             p = Vector3.Scale(p, positionComponents) * positionAmount * 2;
             transform.localPosition = initialPosition + p;
-        }
+        }*/
 
         if (rotationAmount != 0.0f)
         {
