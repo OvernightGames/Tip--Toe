@@ -4,6 +4,10 @@ using System.Collections;
 public class EnemyMovement : MonoBehaviour
 {
 
+	public AudioSource feetSource;
+	public AudioSource headSource;
+	public AudioClip[] clips;
+
 
 	private GameObject player;
 	private Vector3 waypoint;
@@ -50,6 +54,7 @@ public class EnemyMovement : MonoBehaviour
 		{
 			animator.SetBool("isAttacking", true);
 			animator.SetBool("isWalking", false);
+			feetSource.Stop();
 		}
 		else
 		{
@@ -64,6 +69,9 @@ public class EnemyMovement : MonoBehaviour
 			this.transform.rotation = Quaternion.Slerp(this.transform.rotation, rot, 3 * Time.deltaTime);
 			this.transform.position += transform.forward * moveSpeed * Time.deltaTime;
 			animator.SetBool("isWalking", true);
+
+			feetSource.Play();
+
 
 			if(animator.GetBool("isAttacking"))
 				animator.SetBool("isAttacking", false);
@@ -82,12 +90,15 @@ public class EnemyMovement : MonoBehaviour
 					this.transform.position += transform.forward * moveSpeed * Time.deltaTime;
 					animator.SetBool("isWalking", true);
 
+					feetSource.Play();
+
 					if(animator.GetBool("isAttacking"))
 						animator.SetBool("isAttacking", false);
 				}
 				else
 				{
 					animator.SetBool("isWalking", false);
+					feetSource.Stop();
 				}
 			}
 			else 
@@ -96,6 +107,7 @@ public class EnemyMovement : MonoBehaviour
 				wanderMoves++;
 				waypoint = new Vector3(Random.Range(-15,15),1,Random.Range(-13,13));
 				animator.SetBool("isWalking", false);
+				feetSource.Stop();
 			}
 
 		}
