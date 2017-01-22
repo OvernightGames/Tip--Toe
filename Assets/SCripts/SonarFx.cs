@@ -74,7 +74,7 @@ public class SonarFx : MonoBehaviour
     int waveParamsID;
     int waveVectorID;
     int addColorID;
-	float timer =2;
+	float timer =5;
 	float time = 0;
     void Awake()
     {
@@ -118,7 +118,7 @@ public class SonarFx : MonoBehaviour
 
 		if(Input.GetKey(KeyCode.W)||Input.GetKey(KeyCode.A)||Input.GetKey(KeyCode.S)||Input.GetKey(KeyCode.D))
 		{
-			_waveAmplitude = 2;
+			_waveAmplitude = 5;
 			timer = 2;
 		}
 

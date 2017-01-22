@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: a2387fd03e69aa2419d842e1b2f93576
+timeCreated: 1485063598
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: joint1
+    100004: joint10
+    100006: joint11
+    100008: joint2
+    100010: joint3
+    100012: joint4
+    100014: joint5
+    100016: joint6
+    100018: joint7
+    100020: joint8
+    100022: joint9
+    100024: pasted__joint11
+    100026: QuickRigCharacter_Head
+    100028: QuickRigCharacter_Hips
+    100030: QuickRigCharacter_LeftArm
+    100032: QuickRigCharacter_LeftFoot
+    100034: QuickRigCharacter_LeftForeArm
+    100036: QuickRigCharacter_LeftHand
+    100038: QuickRigCharacter_LeftLeg
+    100040: QuickRigCharacter_LeftShoulder
+    100042: QuickRigCharacter_LeftToeBase
+    100044: QuickRigCharacter_LeftUpLeg
+    100046: QuickRigCharacter_Neck
+    100048: QuickRigCharacter_Reference
+    100050: QuickRigCharacter_RightArm
+    100052: QuickRigCharacter_RightFoot
+    100054: QuickRigCharacter_RightForeArm
+    100056: QuickRigCharacter_RightHand
+    100058: QuickRigCharacter_RightLeg
+    100060: QuickRigCharacter_RightShoulder
+    100062: QuickRigCharacter_RightToeBase
+    100064: QuickRigCharacter_RightUpLeg
+    100066: QuickRigCharacter_Spine
+    100068: QuickRigCharacter_Spine1
+    100070: QuickRigCharacter_Spine2
+    100072: TipToe_Teeth_LP:Group40639
+    100074: TipToe_Teeth_LP:Group40639_MeshPart0
+    100076: TipToe_Teeth_LP:Group40639_MeshPart1
+    100078: transform1
+    100080: transform2
+    100082: transform3
+    100084: transform4
+    100086: transform5
+    100088: transform6
+    400000: //RootNode
+    400002: joint1
+    400004: joint10
+    400006: joint11
+    400008: joint2
+    400010: joint3
+    400012: joint4
+    400014: joint5
+    400016: joint6
+    400018: joint7
+    400020: joint8
+    400022: joint9
+    400024: pasted__joint11
+    400026: QuickRigCharacter_Head
+    400028: QuickRigCharacter_Hips
+    400030: QuickRigCharacter_LeftArm
+    400032: QuickRigCharacter_LeftFoot
+    400034: QuickRigCharacter_LeftForeArm
+    400036: QuickRigCharacter_LeftHand
+    400038: QuickRigCharacter_LeftLeg
+    400040: QuickRigCharacter_LeftShoulder
+    400042: QuickRigCharacter_LeftToeBase
+    400044: QuickRigCharacter_LeftUpLeg
+    400046: QuickRigCharacter_Neck
+    400048: QuickRigCharacter_Reference
+    400050: QuickRigCharacter_RightArm
+    400052: QuickRigCharacter_RightFoot
+    400054: QuickRigCharacter_RightForeArm
+    400056: QuickRigCharacter_RightHand
+    400058: QuickRigCharacter_RightLeg
+    400060: QuickRigCharacter_RightShoulder
+    400062: QuickRigCharacter_RightToeBase
+    400064: QuickRigCharacter_RightUpLeg
+    400066: QuickRigCharacter_Spine
+    400068: QuickRigCharacter_Spine1
+    400070: QuickRigCharacter_Spine2
+    400072: TipToe_Teeth_LP:Group40639
+    400074: TipToe_Teeth_LP:Group40639_MeshPart0
+    400076: TipToe_Teeth_LP:Group40639_MeshPart1
+    400078: transform1
+    400080: transform2
+    400082: transform3
+    400084: transform4
+    400086: transform5
+    400088: transform6
+    4300000: TipToe_Teeth_LP:Group40639_MeshPart0
+    4300002: TipToe_Teeth_LP:Group40639_MeshPart1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: TipToe_Teeth_LP:Group40639_MeshPart0
+    13700002: TipToe_Teeth_LP:Group40639_MeshPart1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: QuickRigCharacter_Reference
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_LeftUpLeg
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_LeftUpLeg/QuickRigCharacter_LeftLeg
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_LeftUpLeg/QuickRigCharacter_LeftLeg/QuickRigCharacter_LeftFoot
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_LeftUpLeg/QuickRigCharacter_LeftLeg/QuickRigCharacter_LeftFoot/QuickRigCharacter_LeftToeBase
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_RightUpLeg
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_RightUpLeg/QuickRigCharacter_RightLeg
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_RightUpLeg/QuickRigCharacter_RightLeg/QuickRigCharacter_RightFoot
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_RightUpLeg/QuickRigCharacter_RightLeg/QuickRigCharacter_RightFoot/QuickRigCharacter_RightToeBase
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/QuickRigCharacter_Spine2
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/QuickRigCharacter_Spine2/QuickRigCharacter_Neck
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/QuickRigCharacter_Spine2/QuickRigCharacter_Neck/QuickRigCharacter_Head
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/QuickRigCharacter_Spine2/QuickRigCharacter_Neck/transform2
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/QuickRigCharacter_Spine2/QuickRigCharacter_Neck/transform2/joint9
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/QuickRigCharacter_Spine2/QuickRigCharacter_Neck/transform2/joint9/joint10
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/transform3
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/transform3/QuickRigCharacter_LeftShoulder
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/transform3/QuickRigCharacter_LeftShoulder/QuickRigCharacter_LeftArm
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/transform3/QuickRigCharacter_LeftShoulder/QuickRigCharacter_LeftArm/QuickRigCharacter_LeftForeArm
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/transform3/QuickRigCharacter_LeftShoulder/QuickRigCharacter_LeftArm/QuickRigCharacter_LeftForeArm/QuickRigCharacter_LeftHand
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/transform3/QuickRigCharacter_LeftShoulder/QuickRigCharacter_LeftArm/QuickRigCharacter_LeftForeArm/QuickRigCharacter_LeftHand/transform5
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/transform3/QuickRigCharacter_LeftShoulder/QuickRigCharacter_LeftArm/QuickRigCharacter_LeftForeArm/QuickRigCharacter_LeftHand/transform5/joint11
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/transform4
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/transform4/QuickRigCharacter_RightShoulder
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/transform4/QuickRigCharacter_RightShoulder/QuickRigCharacter_RightArm
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/transform4/QuickRigCharacter_RightShoulder/QuickRigCharacter_RightArm/QuickRigCharacter_RightForeArm
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/transform4/QuickRigCharacter_RightShoulder/QuickRigCharacter_RightArm/QuickRigCharacter_RightForeArm/QuickRigCharacter_RightHand
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/transform4/QuickRigCharacter_RightShoulder/QuickRigCharacter_RightArm/QuickRigCharacter_RightForeArm/QuickRigCharacter_RightHand/transform6
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/QuickRigCharacter_Spine/QuickRigCharacter_Spine1/transform4/QuickRigCharacter_RightShoulder/QuickRigCharacter_RightArm/QuickRigCharacter_RightForeArm/QuickRigCharacter_RightHand/transform6/pasted__joint11
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/transform1
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/transform1/joint1
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/transform1/joint1/joint2
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/transform1/joint1/joint2/joint3
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/transform1/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/transform1/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/transform1/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/transform1/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: QuickRigCharacter_Reference/QuickRigCharacter_Hips/transform1/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: TipToe_Teeth_LP:Group40639
+        weight: 1
+      - path: TipToe_Teeth_LP:Group40639/TipToe_Teeth_LP:Group40639_MeshPart0
+        weight: 1
+      - path: TipToe_Teeth_LP:Group40639/TipToe_Teeth_LP:Group40639_MeshPart1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: dbb64f2e1af42e6479dc517984cffc6e,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
