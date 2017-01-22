@@ -44,7 +44,7 @@ public class GameController : MonoBehaviour {
 			PlayerPrefs.SetInt("HasPlayed",1);
 			////// WE LOSE CODE GOES HERE /////
 			/// 
-			SceneManager.LoadScene("Test");
+			SceneManager.LoadScene("TestOrlando");
 			Debug.Log("Yoda we have lost the game.");
 		}
 		if(Vector3.Distance(player.transform.position, toy.transform.position) < 1f && !hasToy)
