@@ -152,7 +152,7 @@ public class FirstPersonController : MonoBehaviour
 
 		if(Input.GetAxis("Vertical") > .1f  && canMove)
 		{
-			this.transform.Translate(Vector3.forward * 1 * Time.deltaTime);
+			this.transform.Translate(Vector3.forward * 1.1f * Time.deltaTime);
 			isMoving = true;
 			// play audio clip walk
 			if(!feetSource.isPlaying)
@@ -160,7 +160,7 @@ public class FirstPersonController : MonoBehaviour
 		}
 		else if(Input.GetAxis("Vertical") < -.1f && canMove)
 		{
-			this.transform.Translate(Vector3.back * 1 * Time.deltaTime);
+			this.transform.Translate(Vector3.back * 1.1f * Time.deltaTime);
 
 			isMoving = true;
 			// play audio clip walk
@@ -175,9 +175,14 @@ public class FirstPersonController : MonoBehaviour
 				feetSource.Stop();
 		}
 
-		float mouseInput = Input.GetAxis("Horizontal");
-		Vector3 lookhere = new Vector3(0,mouseInput,0);
-		transform.Rotate(lookhere);
+		if(Input.GetAxis("Horizontal") > .1f || Input.GetAxis("Horizontal") < -.1f)
+		{
+			float mouseInput = Input.GetAxis("Horizontal");
+			Vector3 lookhere = new Vector3(0,mouseInput,0);
+			transform.Rotate(lookhere);
+
+		}
+
 	}
 
 	IEnumerator WaitForScream()

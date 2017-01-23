@@ -1,0 +1,689 @@
+Initialize engine version: 5.4.3f1 (01f4c123905a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970M (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     3037 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Patrick Rasmussen\Documents\UnityProjects\Tip--Toe\TipToe_GGJ2017\TipToe_GGJ2017_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Patrick Rasmussen\Documents\UnityProjects\Tip--Toe\TipToe_GGJ2017\TipToe_GGJ2017_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Patrick Rasmussen\Documents\UnityProjects\Tip--Toe\TipToe_GGJ2017\TipToe_GGJ2017_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Patrick Rasmussen\Documents\UnityProjects\Tip--Toe\TipToe_GGJ2017\TipToe_GGJ2017_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Patrick Rasmussen\Documents\UnityProjects\Tip--Toe\TipToe_GGJ2017\TipToe_GGJ2017_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Patrick Rasmussen\Documents\UnityProjects\Tip--Toe\TipToe_GGJ2017\TipToe_GGJ2017_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Patrick Rasmussen\Documents\UnityProjects\Tip--Toe\TipToe_GGJ2017\TipToe_GGJ2017_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Patrick Rasmussen\Documents\UnityProjects\Tip--Toe\TipToe_GGJ2017\TipToe_GGJ2017_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.045 seconds
+Platform assembly: C:\Users\Patrick Rasmussen\Documents\UnityProjects\Tip--Toe\TipToe_GGJ2017\TipToe_GGJ2017_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Patrick Rasmussen\Documents\UnityProjects\Tip--Toe\TipToe_GGJ2017\TipToe_GGJ2017_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.015286 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4730 -> priority: 1 
+  Thread -> id: 35f8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.386326 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 205.
+Total: 0.229496 ms (FindLiveObjects: 0.013548 ms CreateObjectMapping: 0.013137 ms MarkObjects: 0.121111 ms  DeleteObjects: 0.081288 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.031996 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2097.
+Total: 2.305229 ms (FindLiveObjects: 0.168735 ms CreateObjectMapping: 0.106332 ms MarkObjects: 0.438465 ms  DeleteObjects: 1.590464 ms)
+
+Yoda we have the toy lets go!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.987875 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 1.056341 ms (FindLiveObjects: 0.238118 ms CreateObjectMapping: 0.133428 ms MarkObjects: 0.665909 ms  DeleteObjects: 0.016832 ms)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.535957 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.798106 ms (FindLiveObjects: 0.176125 ms CreateObjectMapping: 0.097710 ms MarkObjects: 0.510722 ms  DeleteObjects: 0.012727 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have the toy lets go!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have won the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.643014 ms
+
+Unloading 222 unused Assets to reduce memory usage. Loaded Objects now: 176.
+Total: 6.506372 ms (FindLiveObjects: 0.049265 ms CreateObjectMapping: 0.052550 ms MarkObjects: 0.281225 ms  DeleteObjects: 6.120867 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.563683 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 176.
+Total: 0.228675 ms (FindLiveObjects: 0.014369 ms CreateObjectMapping: 0.012727 ms MarkObjects: 0.159292 ms  DeleteObjects: 0.041054 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.299289 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.250845 ms (FindLiveObjects: 0.012727 ms CreateObjectMapping: 0.009442 ms MarkObjects: 0.152313 ms  DeleteObjects: 0.076362 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.858046 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 1.584306 ms (FindLiveObjects: 0.114132 ms CreateObjectMapping: 0.052139 ms MarkObjects: 0.309553 ms  DeleteObjects: 1.108070 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.395454 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.422864 ms (FindLiveObjects: 0.095247 ms CreateObjectMapping: 0.047213 ms MarkObjects: 0.273425 ms  DeleteObjects: 0.006568 ms)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.310881 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.465151 ms (FindLiveObjects: 0.108795 ms CreateObjectMapping: 0.047623 ms MarkObjects: 0.301753 ms  DeleteObjects: 0.006158 ms)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.834330 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.616643 ms (FindLiveObjects: 0.138354 ms CreateObjectMapping: 0.071435 ms MarkObjects: 0.397410 ms  DeleteObjects: 0.009032 ms)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.278954 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.614180 ms (FindLiveObjects: 0.128912 ms CreateObjectMapping: 0.084572 ms MarkObjects: 0.389199 ms  DeleteObjects: 0.010674 ms)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.855050 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 1.199622 ms (FindLiveObjects: 0.269319 ms CreateObjectMapping: 0.157650 ms MarkObjects: 0.751714 ms  DeleteObjects: 0.019706 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.603698 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.803853 ms (FindLiveObjects: 0.181051 ms CreateObjectMapping: 0.098531 ms MarkObjects: 0.510722 ms  DeleteObjects: 0.013137 ms)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.584813 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.813707 ms (FindLiveObjects: 0.179409 ms CreateObjectMapping: 0.098942 ms MarkObjects: 0.520986 ms  DeleteObjects: 0.012727 ms)
+
+Yoda we have the toy lets go!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.030162 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.658109 ms (FindLiveObjects: 0.146155 ms CreateObjectMapping: 0.079235 ms MarkObjects: 0.422043 ms  DeleteObjects: 0.010263 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.407045 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.752945 ms (FindLiveObjects: 0.172430 ms CreateObjectMapping: 0.090320 ms MarkObjects: 0.476646 ms  DeleteObjects: 0.012316 ms)
+
+Yoda we have the toy lets go!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.241184 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.747608 ms (FindLiveObjects: 0.168324 ms CreateObjectMapping: 0.090320 ms MarkObjects: 0.476646 ms  DeleteObjects: 0.011495 ms)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.432595 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.474183 ms (FindLiveObjects: 0.128912 ms CreateObjectMapping: 0.051729 ms MarkObjects: 0.283278 ms  DeleteObjects: 0.009853 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.321651 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.660572 ms (FindLiveObjects: 0.127270 ms CreateObjectMapping: 0.084162 ms MarkObjects: 0.437234 ms  DeleteObjects: 0.011084 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.290449 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.783326 ms (FindLiveObjects: 0.172840 ms CreateObjectMapping: 0.092373 ms MarkObjects: 0.506616 ms  DeleteObjects: 0.011084 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.830006 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 1.167599 ms (FindLiveObjects: 0.273014 ms CreateObjectMapping: 0.152724 ms MarkObjects: 0.720512 ms  DeleteObjects: 0.019706 ms)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.407360 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.479520 ms (FindLiveObjects: 0.106332 ms CreateObjectMapping: 0.047623 ms MarkObjects: 0.318175 ms  DeleteObjects: 0.006568 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.501567 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 1.149946 ms (FindLiveObjects: 0.261108 ms CreateObjectMapping: 0.149850 ms MarkObjects: 0.718049 ms  DeleteObjects: 0.019706 ms)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.727587 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.552187 ms (FindLiveObjects: 0.117006 ms CreateObjectMapping: 0.066508 ms MarkObjects: 0.358819 ms  DeleteObjects: 0.009032 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.563368 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.562040 ms (FindLiveObjects: 0.123575 ms CreateObjectMapping: 0.063224 ms MarkObjects: 0.366619 ms  DeleteObjects: 0.007800 ms)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.091333 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.726260 ms (FindLiveObjects: 0.168324 ms CreateObjectMapping: 0.086625 ms MarkObjects: 0.458582 ms  DeleteObjects: 0.011495 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.402119 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.837108 ms (FindLiveObjects: 0.188441 ms CreateObjectMapping: 0.098531 ms MarkObjects: 0.535765 ms  DeleteObjects: 0.013137 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have the toy lets go!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.870144 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.916754 ms (FindLiveObjects: 0.190083 ms CreateObjectMapping: 0.118237 ms MarkObjects: 0.592421 ms  DeleteObjects: 0.015190 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.773979 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.620338 ms (FindLiveObjects: 0.135480 ms CreateObjectMapping: 0.069793 ms MarkObjects: 0.404800 ms  DeleteObjects: 0.009442 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have the toy lets go!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.451795 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.828897 ms (FindLiveObjects: 0.180641 ms CreateObjectMapping: 0.099763 ms MarkObjects: 0.534123 ms  DeleteObjects: 0.013137 ms)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.226814 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.783737 ms (FindLiveObjects: 0.173662 ms CreateObjectMapping: 0.090320 ms MarkObjects: 0.506616 ms  DeleteObjects: 0.012316 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.490483 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 1.183200 ms (FindLiveObjects: 0.264393 ms CreateObjectMapping: 0.156418 ms MarkObjects: 0.740629 ms  DeleteObjects: 0.020527 ms)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.688777 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 1.176631 ms (FindLiveObjects: 0.264393 ms CreateObjectMapping: 0.146565 ms MarkObjects: 0.745556 ms  DeleteObjects: 0.018885 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.419266 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.519754 ms (FindLiveObjects: 0.112900 ms CreateObjectMapping: 0.051729 ms MarkObjects: 0.346913 ms  DeleteObjects: 0.006568 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.421729 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.499637 ms (FindLiveObjects: 0.114543 ms CreateObjectMapping: 0.051729 ms MarkObjects: 0.323922 ms  DeleteObjects: 0.009032 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.553200 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.774294 ms (FindLiveObjects: 0.162987 ms CreateObjectMapping: 0.100173 ms MarkObjects: 0.497174 ms  DeleteObjects: 0.012727 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.304819 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.828486 ms (FindLiveObjects: 0.183104 ms CreateObjectMapping: 0.100173 ms MarkObjects: 0.532481 ms  DeleteObjects: 0.012316 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.624129 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.618285 ms (FindLiveObjects: 0.137944 ms CreateObjectMapping: 0.066919 ms MarkObjects: 0.403979 ms  DeleteObjects: 0.009032 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.446362 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.516469 ms (FindLiveObjects: 0.113721 ms CreateObjectMapping: 0.057066 ms MarkObjects: 0.337881 ms  DeleteObjects: 0.007389 ms)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.517893 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.897048 ms (FindLiveObjects: 0.201168 ms CreateObjectMapping: 0.107563 ms MarkObjects: 0.573946 ms  DeleteObjects: 0.013548 ms)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we screamed we saw the monster!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Yoda we have lost the game.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.288807 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 2101.
+Total: 0.819865 ms (FindLiveObjects: 0.179820 ms CreateObjectMapping: 0.098531 ms MarkObjects: 0.527554 ms  DeleteObjects: 0.013137 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.352346 ms
+
+Unloading 222 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 2.476838 ms (FindLiveObjects: 0.018474 ms CreateObjectMapping: 0.022580 ms MarkObjects: 0.171609 ms  DeleteObjects: 2.263764 ms)
+

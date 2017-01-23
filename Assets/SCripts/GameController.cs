@@ -33,11 +33,15 @@ public class GameController : MonoBehaviour {
 	// Update is called once per frame
 	void Update () 
 	{
+		if(Input.GetKeyDown(KeyCode.Escape))
+			SceneManager.LoadScene("StartMenu");
 
-		if(Vector3.Distance(toy.transform.position, this.transform.position) < 1f)
+
+		if(Vector3.Distance(this.transform.position, toy.transform.position) < 1f)
 		{
 			////// WE WIN CODE GOES HERE //////	
 			Debug.Log("Yoda we have won the game.");	
+			SceneManager.LoadScene("GameWin");
 		}
 		if(Vector3.Distance(enemy.transform.position, player.transform.position) < 1.5f  || Vector3.Distance(enemy.transform.position, toy.transform.position) < 1.5f)
 		{
@@ -47,12 +51,12 @@ public class GameController : MonoBehaviour {
 			SceneManager.LoadScene("TestOrlando");
 			Debug.Log("Yoda we have lost the game.");
 		}
-		if(Vector3.Distance(player.transform.position, toy.transform.position) < 1f && !hasToy)
+		if(Vector3.Distance(toy.transform.position, player.transform.position) < 1.25f && !hasToy)
 		{
 			Debug.Log("Yoda we have the toy lets go!");
 			toy.transform.SetParent(player.transform);
-			toy.transform.localPosition = new Vector3(-0.154698f,-0.1144f,0.483082f);
-			toy.transform.localRotation = new Quaternion(-0.05086277f,-0.8770941f,0.09532169f,-0.4680093f);
+			toy.transform.localPosition = new Vector3(-0.154698f,-0.4f,0.483082f);
+			toy.transform.localRotation = new Quaternion(-0.04239476f,0.9174203f,0.1017217f,0.382355f);
 			hasToy = true;
 		}
 	}
